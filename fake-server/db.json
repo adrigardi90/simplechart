@@ -1,0 +1,17 @@
+{
+  "maps": [
+    {
+      "id": 1,
+      "title": "Elecciones Generales 2016",
+      "type": 1,
+      "description": "Resultados de las Elecciones Generales de 2016, por municipios",
+      "tags": [
+        "elecciones",
+        "nacionales",
+        "2016",
+        "municipios"
+      ],
+      "url": "/mapa-electoral-municipios-espana-2016"
+    }
+  ]
+}
